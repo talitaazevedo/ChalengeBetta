@@ -24,7 +24,7 @@
 - Acesse a [Questão03](https://github.com/tnazevedo/ChalengeBetta/blob/master/Questions/Questao03.js).
 - Acesse a [Questão04](https://github.com/tnazevedo/ChalengeBetta/blob/master/Questions/Questao04.js).
 - Acesse a [Questão05](https://github.com/tnazevedo/ChalengeBetta/blob/master/Questions/Questao05.js).
-- Acesse ao Projeto [Questão06](https://github.com/tnazevedo/ChalengeBetta/tree/master/Questions/Questao06)
+- Acesse o Projeto [Questão06](https://github.com/tnazevedo/ChalengeBetta/tree/master/Questions/Questao06)
 
 ## Meta
 
