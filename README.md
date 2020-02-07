@@ -19,11 +19,12 @@
 
 > Acesse as respostas utilizando a navegação abaixo:
 
-- Acesse [Questão01](https://github.com/tnazevedo/ChalengeBetta/blob/master/Questions/Questao01.js).
-- Acesse [Questão02](https://github.com/tnazevedo/ChalengeBetta/blob/master/Questions/Questao02.js).
-- Acesse [Questão03](https://github.com/tnazevedo/ChalengeBetta/blob/master/Questions/Questao03.js).
-- Acesse [Questão04](https://github.com/tnazevedo/ChalengeBetta/blob/master/Questions/Questao04.js).
-- Acesse [Questão05](https://github.com/tnazevedo/ChalengeBetta/blob/master/Questions/Questao05.js).
+- Acesse a [Questão01](https://github.com/tnazevedo/ChalengeBetta/blob/master/Questions/Questao01.js).
+- Acesse a [Questão02](https://github.com/tnazevedo/ChalengeBetta/blob/master/Questions/Questao02.js).
+- Acesse a [Questão03](https://github.com/tnazevedo/ChalengeBetta/blob/master/Questions/Questao03.js).
+- Acesse a [Questão04](https://github.com/tnazevedo/ChalengeBetta/blob/master/Questions/Questao04.js).
+- Acesse a [Questão05](https://github.com/tnazevedo/ChalengeBetta/blob/master/Questions/Questao05.js).
+- Acesse ao Projeto [Questão06](https://github.com/tnazevedo/ChalengeBetta/tree/master/Questions/Questao06)
 
 ## Meta
 
