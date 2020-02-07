@@ -11,7 +11,7 @@ Esta é a resposta da questão 06 do teste de processo seletivo Betta. O projeto
 
 Para utilizar o projeto em linha de comando é necessário ter o node instalado.
 
-[Clique aqui para instalar o nodejs ](https://nodejs.org/dist/v12.15.0/node-v12.15.0-linux-x64.tar.xz)
+ - [clique aqui para instalar o nodejs ](https://nodejs.org/dist/v12.15.0/node-v12.15.0-linux-x64.tar.xz)
 Para utilizar o projeto em linha de comando utilizando o **vscode** sugiro a instalação da extensão *code Runner*
 
 ![CodeRunner-ext](./images/codeRunner.gif)
